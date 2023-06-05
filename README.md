@@ -9,10 +9,13 @@ I am currently a student of fullstack development 😎 and I want to share my le
  🔭 I’m currently working on my Portfolio as Fullstack Developer and🌱 learning about MongoDB and MySQL 💻
 
 
-	`const catalina = {  
+	```js
+	const catalina = {  
 	     pronouns: "she" | "her",
 	     code: [HTML, CSS, Javascript],
  	     tools: [React,Node, Express, MongoDB],
-	`}
+	}
+	
+	```
 
 I love knitting 🧶 and also reading 👀.
