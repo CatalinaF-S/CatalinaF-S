@@ -8,14 +8,12 @@ I am currently a student of fullstack development 😎 and I want to share my le
 
  🔭 I’m currently working on my Portfolio as Fullstack Developer and🌱 learning about MongoDB and MySQL 💻
 
-```js
-	
+```js	
 	const catalina = {  
 	     pronouns: "she" | "her",
 	     code: [HTML, CSS, Javascript],
  	     tools: [React,Node, Express, MongoDB],
 	}
-	
 	
 ```
 	
