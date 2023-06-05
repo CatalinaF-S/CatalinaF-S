@@ -18,6 +18,6 @@ I am currently a student of fullstack development 😎 and I want to share my le
 ```
 	
 
-I love knitting 🧶 and also reading 👀.
+I love knitting 🧶 and also reading books 👀  especially those of Gabriel García Márquez 🦋.
 
 I am very excited about what the future holds for me. ✨
