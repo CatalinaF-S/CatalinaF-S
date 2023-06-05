@@ -1,7 +1,7 @@
 <!--
 **CatalinaFonsecaSilva/CatalinaFonsecaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### Hola, my name is Catalina!
+### Hola, I am Catalina!
 
 I am currently a student of fullstack development 😎 and I want to share my learning path through this platform. ⭐
 
