@@ -1,6 +1,6 @@
 ### Hi, my name is Catalina!
 
-I am currently a student of fullstack development and I want to share my learning space through this platform. 
+I am currently a student of fullstack development and I want to share my learning through this platform. ⭐
 
 <!--
 **CatalinaFonsecaSilva/CatalinaFonsecaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
