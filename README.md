@@ -3,7 +3,7 @@
 
 ### Hola, I am Catalina!
 
-I am currently a student of fullstack development 😎 and I want to share my learning path through this platform. ⭐
+I am a fullstack developer 😎 and I will share here my learning path and projects. ⭐
 
 
  🔭 I’m currently working on my Portfolio as Fullstack Developer and🌱 learning about MongoDB and MySQL 💻
